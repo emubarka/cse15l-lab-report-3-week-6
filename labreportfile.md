@@ -43,4 +43,4 @@
 
   - Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
 
-![](https://github.com/emubarka/cse15l-lab-report-3)
+![](https://github.com/emubarka/cse15l-lab-report-3/blob/main/Screen%20Shot%202022-05-05%20at%2011.59.23%20AM.png)
