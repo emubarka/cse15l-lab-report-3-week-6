@@ -31,7 +31,8 @@ Making a path to my ssh login, as well as making commands shorter to help ease t
 
   - Show a link for the resulting commit.
 
-[](https://github.com/emubarka/cse15l-lab-report-3-week-6.git)
+
+[Link from the resulting commit](https://github.com/emubarka/cse15l-lab-report-3-week-6.git)
 
 
 - **Copy whole directories with scp -r**
