@@ -1,4 +1,4 @@
-class WhereAmI {
+class HelloWorld {
   public static void main(String[] args) {
   }
 }
