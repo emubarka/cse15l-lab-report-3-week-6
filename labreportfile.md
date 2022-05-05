@@ -15,6 +15,7 @@ Making a path to my ssh login, as well as making commands shorter to help ease t
 
 ![](https://github.com/emubarka/cse15l-lab-report-3/blob/main/Screen%20Shot%202022-05-05%20at%2012.56.45%20PM.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Setup Github Access from ieng6**
   - Show where the public key you made is stored on Github and in your user account (screenshot).
@@ -34,6 +35,7 @@ Making a path to my ssh login, as well as making commands shorter to help ease t
 
 [Link from the resulting commit](https://github.com/emubarka/cse15l-lab-report-3-week-6.git)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Copy whole directories with scp -r**
   - Show copying your whole markdown-parse directory to your ieng6 account.
