@@ -1,5 +1,7 @@
 # Lab Report 3
 
+Making a path to my ssh login, as well as making commands shorter to help ease the process of copying, changing, or even committing things through github and remote. Showing the config file to make the path, using tokens and pathways to github, as well as using one line commands to put a file in remote more easily.
+
 - **Streamlining ssh Configuration**
   - Show your .ssh/config file, and how you edited it (with VScode, another program, etc)  
 
